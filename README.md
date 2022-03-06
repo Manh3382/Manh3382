@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Manh3382/Manh3382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm TuanManh</a></h1>
 
-Here are some ideas to get you started:
+## 💁‍♂️ Some infomations about me: <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at [Vietnam Academy of Cryptography Techniques](http://actvn.edu.vn/)
+- 🌱 I’m currently learning C and Java
+- 📫 How to reach me: [Twitter - @TunMah33821](https://twitter.com/TunMah33821), [Instagram - @manh_115](https://www.instagram.com/manh_115/)
+- ⚡ Fun fact: My dream is to become a talented programmer!!!
+  
+
+<h3 align="center">
+Many thanks ❤️ for visting me !
+</h3>
